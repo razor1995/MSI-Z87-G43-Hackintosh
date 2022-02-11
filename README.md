@@ -10,4 +10,4 @@ Current OpenCore version: 0.7.8.
 
 Current kexts list:
 
-![alt text](hhttps://github.com/razor1995/MSI-Z87-G43-Hackintosh/blob/main/Zrzut%20ekranu%202022-02-11%20o%2010.53.58.png)
+![alt text](https://github.com/razor1995/MSI-Z87-G43-Hackintosh/blob/main/Zrzut%20ekranu%202022-02-11%20o%2010.53.58.png)
